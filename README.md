@@ -1,6 +1,6 @@
 # links
 A collection of "useful" links
 
-- https://app.diagrams.net/
-- https://repl.it/
-- https://bitly.com/
+- https://app.diagrams.net/ //free online diagram editor
+- https://repl.it/ //web ide
+- https://bitly.com/ //url shortner
