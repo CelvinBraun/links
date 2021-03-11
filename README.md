@@ -5,4 +5,4 @@ A collection of "useful" links
 - https://repl.it/ //web ide
 - https://bitly.com/ //url shortner
 - https://guides.github.com/features/mastering-markdown/ //mastering markdown .md
-- https://httpstatuses.com/ //http status codes
+- https://httpstatuses.com/ //http status codes -> useful explanations
