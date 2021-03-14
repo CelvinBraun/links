@@ -6,3 +6,4 @@ A collection of "useful" links
 - https://bitly.com/ //url shortner
 - https://guides.github.com/features/mastering-markdown/ //mastering markdown .md
 - https://httpstatuses.com/ //http status codes -> useful explanations
+- http://jsonviewer.stack.hu/ //json online viewer
