@@ -7,4 +7,7 @@ A collection of "useful" links
 - https://guides.github.com/features/mastering-markdown/ //mastering markdown .md
 - https://httpstatuses.com/ //http status codes -> useful explanations
 - http://jsonviewer.stack.hu/ //json online viewer
-- https://www.cpuid.com/softwares/cpu-z.html //Read data from the hardware
+- https://www.cpuid.com/softwares/cpu-z.html //get information from your hardware
+- https://flukeout.github.io/ //CSS selector game
+- https://www.freecodecamp.org/ //learn to code for free
+- https://colorhunt.co/ //good color matches for your website css
