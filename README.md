@@ -13,3 +13,5 @@ A collection of "useful" links
 - https://colorhunt.co/ //good color matches for your website css
 - https://www.veracrypt.fr/code/VeraCrypt/ //encryption tool
 - https://www.netacad.com/portal/learning //Cisco NetAcad (learning) -> nice beginner network courses
+- https://www.piotrbania.com/all/kon-boot/ //bypass windows (also for mac) password (when no bitlocker is activated) 
+- https://www.pythonanywhere.com/ //(free) for running very very simple Python scripts
