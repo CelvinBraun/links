@@ -11,3 +11,5 @@ A collection of "useful" links
 - https://flukeout.github.io/ //CSS selector game
 - https://www.freecodecamp.org/ //learn to code for free
 - https://colorhunt.co/ //good color matches for your website css
+- https://www.veracrypt.fr/code/VeraCrypt/ //encryption tool
+- https://www.netacad.com/portal/learning //Cisco NetAcad (learning) -> nice beginner network courses
