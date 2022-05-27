@@ -15,3 +15,4 @@ A collection of "useful" links
 - https://www.netacad.com/portal/learning //Cisco NetAcad (learning) -> nice beginner network courses
 - https://www.piotrbania.com/all/kon-boot/ //bypass windows (also for mac) password (when no bitlocker is activated) 
 - https://www.pythonanywhere.com/ //(free) for running very very simple Python scripts
+- https://killedbymicrosoft.info/ //microsoft pass away products
