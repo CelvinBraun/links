@@ -18,3 +18,4 @@ A collection of "useful" links
 - https://killedbymicrosoft.info/ //a website what shows eol products from microsoft
 - https://codebeautify.org/sqlformatter //SQL formatter
 - https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16 //Run SQL analysis from an usb stick
+- https://duckify.huhn.me/ //Ducky Script to Digispark script
