@@ -20,3 +20,4 @@ A collection of "useful" links
 - https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16 //Run SQL analysis from an usb stick
 - https://duckify.huhn.me/ //Ducky Script to Digispark script
 - https://bios-pw.org/ //codes to reset bios password (DELL -> qwerty keyboard! / ctrl+enter)
+- https://cryptii.com/ //nice to test a little with encryption
