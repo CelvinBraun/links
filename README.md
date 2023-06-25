@@ -21,3 +21,5 @@ A collection of "useful" links
 - https://duckify.huhn.me/ //Ducky Script to Digispark script
 - https://bios-pw.org/ //codes to reset bios password (DELL -> qwerty keyboard! / ctrl+enter)
 - https://cryptii.com/ //nice to test a little with encryption
+- https://www.geocerts.com/ssl-checker //simple ssl checker
+- https://www.ssllabs.com/ssltest//index.html //little bit more info ssl checker
