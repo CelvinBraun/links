@@ -23,3 +23,4 @@ A collection of "useful" links
 - https://cryptii.com/ //nice to test a little with encryption
 - https://www.geocerts.com/ssl-checker //simple ssl checker
 - https://www.ssllabs.com/ssltest//index.html //little bit more info ssl checker
+- https://reeborg.ca/index_en.html //nice page to learn about programming basics
